@@ -1,7 +1,7 @@
 # AIDL_A_02
 Lab exercises and solutions for msc [aidl_a_02 course](https://aidl.uniwa.gr/aidl_a02-neural-networks-and-deep-learning/)
 
-You are recommended to run them using google colab.
+You are recommended to run them using [google colab](https://colab.research.google.com).
 
 In case you want to make use of external data sources (save/load) please check this [colab](https://colab.research.google.com/notebooks/io.ipynb)
 
